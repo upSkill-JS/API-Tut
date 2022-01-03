@@ -1,0 +1,29 @@
+{
+  "name": "api-tut",
+  "version": "1.0.0",
+  "description": "Tutorial for working with API in javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KailashJS/API-Tut.git"
+  },
+  "keywords": [
+    "API",
+    "JavaScript",
+    "Axios",
+    "Fetch",
+    "JQuery"
+  ],
+  "author": "upSkill JS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KailashJS/API-Tut/issues"
+  },
+  "homepage": "https://github.com/KailashJS/API-Tut#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
